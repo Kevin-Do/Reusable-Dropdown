@@ -51,7 +51,7 @@ function App() {
               type="text"
               id="name"
               name="name"
-              className=" rounded-lg p-2 border border-grey-800"
+              className=" rounded-lg p-2 border border-grey-800 dark:text-black"
               placeholder="Dropdown Name"
               onChange={(e) => setDropdownName(e.currentTarget.value)}
             />
