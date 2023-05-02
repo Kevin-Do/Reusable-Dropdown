@@ -13,6 +13,7 @@ This project has been deployed using Vercel. You can view the deployed version h
 - Load more options button
 - Clear selected options button
 - Support for both single and multi-select modes
+- Supports accessibility for key access
 
 ## Technologies Used
 
@@ -57,9 +58,8 @@ Screenshots
 -----------
 
 Here are some screenshots of the app in action:
+![Screen Shot 2023-05-01 at 10 56 37 PM](https://user-images.githubusercontent.com/18412636/235589958-8d277c53-a0a6-496c-b8df-caaecb04cbdd.png)
+![Screen Shot 2023-05-01 at 10 56 24 PM](https://user-images.githubusercontent.com/18412636/235589959-29b38059-da39-490d-bbb2-165076731125.png)
 
-![App in light mode](./screenshots/light.png)
-
-![App in dark mode](./screenshots/dark.png)
 
 
